@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-09-21T09:14:49.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="bEntwDp1E_hqN3vZABbW" version="21.8.0" type="device">
+  <diagram name="Página-1" id="tFTx72XdJpB2vqAZzu41">
+    <mxGraphModel dx="548" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iU1ZQdvgA8wobmGJ2emW-1" target="iU1ZQdvgA8wobmGJ2emW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-1" value="Inici" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="10" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-2" value="Final" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iU1ZQdvgA8wobmGJ2emW-3" target="iU1ZQdvgA8wobmGJ2emW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-3" value="Preguntar i llegir de l&#39;usuari el radi del cercle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="80" width="137" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iU1ZQdvgA8wobmGJ2emW-5" target="iU1ZQdvgA8wobmGJ2emW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-5" value="Calcular l&#39;àrea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iU1ZQdvgA8wobmGJ2emW-8" target="iU1ZQdvgA8wobmGJ2emW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iU1ZQdvgA8wobmGJ2emW-8" value="Mostrar el resultat a l&#39;usuari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
