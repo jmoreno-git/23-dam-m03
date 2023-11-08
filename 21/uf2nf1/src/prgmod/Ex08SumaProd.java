@@ -10,8 +10,8 @@ public class Ex08SumaProd {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int num1; //TODO
-        int num2;
+        int num1=0; //TODO
+        int num2=0;
         //si ordre invertit, intercanviar valors de variables
         if (num1 > num2) {
             int aux = num2;
