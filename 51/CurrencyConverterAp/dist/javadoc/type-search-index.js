@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cat.proven.currencyconverter.model","l":"CurrencyConverter"},{"p":"cat.proven.currencyconverter.model","l":"CurrencyNotFoundException"},{"p":"cat.proven.currencyconverter","l":"Main"},{"p":"cat.proven.currencyconverter","l":"Menu"}];updateSearchResults();

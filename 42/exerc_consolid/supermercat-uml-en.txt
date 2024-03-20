@@ -1,0 +1,23 @@
+class Article {
+ #name: String
+ #maker: String
+ #price: double
+ #eanCode: String
+ +getPvp(): double
+}
+class Food {
+ #data: String
+ +getPvp(): double
+}
+class Clothes {
+ #size: int
+ +getPvp(): double
+}
+class CooledFood {
+ -temperature: double
+ +getPvp(): double
+}
+Article <|-- Food
+Article <|-- Clothes
+Food <|-- CooledFood
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+interface Swimmer {
+  +swim(): String
+}
+interface Runner  {
+  +jump(): String
+  +run(): String
+}
+abstract class Person {
+ #name: String
+ #age: int
+ {abstract} +attendClass(): String
+}
+Swimmer <|.. Person
+Runner  <|.. Person
+class Athlet {
+  -discipline: String
+  -number: int
+  +attendClass(): String
+  +swim(): String
+  +jump(): String
+  +run(): String
+}
+Person <|-- Athlet 
+@enduml
